@@ -1,0 +1,42 @@
+body {
+   font-family: fantasy;
+   background: url(images_world.jpeg);
+   background-size: cover;
+   background-position: center;
+   padding: 30px;
+   border: 500px;
+   margin: 100px;
+}
+
+
+
+div {
+  text-align: right;
+  text-decoration: underline;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+
+h1{
+  //*text-align: right;*//
+  text-decoration: underline;
+  font-variant: normal;
+  font-style: oblique;
+  font-size: 20px;
+}
+
+header{
+  font-size: 45px;
+  font-family: sans-serif;
+  font-weight: bold;
+  //*border: 5px solid;
+  border-width: thick;
+  border-spacing: inherit;*//
+
+}
+
+//*body{
+background-color: #;
+color: #fff;
+padding: 20px;
+}*//
